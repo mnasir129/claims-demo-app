@@ -1,0 +1,14 @@
+# .NET
+bin/
+obj/
+.vs/
+.vscode/
+
+# Build artifacts
+ClaimsDemo.API/deploy/
+ClaimsDemo.API/*.tar.gz
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
